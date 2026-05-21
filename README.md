@@ -1,2 +1,7 @@
-# demo-la-azalea-construcciones
-Demo web para La Azalea Construcciones — diseñada por eterlab.
+# La Azalea Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
